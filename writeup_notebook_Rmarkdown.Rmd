@@ -1,0 +1,22 @@
+---
+title: "Proposal"
+author: "Meaghan Burke, Justin Herman, Vikas Sinha, Joseph Garcia"
+date: "9/20/2019"
+output: html_document
+---
+
+## Description, why and past examples
+
+
+
+
+
+## Hypothesis
+
+
+
+
+## Solution 
+
+
+
