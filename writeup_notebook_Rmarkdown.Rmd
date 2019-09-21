@@ -5,9 +5,21 @@ date: "9/20/2019"
 output: html_document
 ---
 
-## Description, why and past examples
+## Previous Approaches
 
+There have been a number of approaches directed at the general problem of measuring and quantifying media bias.
 
+Sheth[1] describes an approach for measuring media bias in which news items from selected new sources
+are assigned bias scores for several types of biases. Then the bias score for each news source is 
+computed as a distance between its extreme values in a vector space of different types of bias
+represented numerically. The bias score is also scaled by the number of new items from that news
+source.
+
+In Budak[2] bias (or "slant") is quantified based on a scoring of news articles on a range of
+topics spanning the idelogical spectrum, such as Environment, Gun Control and Healthcare.
+The scoring is performed by people through use of the crowdsourcing platform Amazon Turk. 
+
+Our proposal is different in that it focuses on bias in coverage of individual candidates, not political bias in general
 
 
 
@@ -44,8 +56,17 @@ Our hypothesis test will look like this:
 **Alternative Hypothesis: there is a statistical difference in the Negative_bias mean score**
 
 
+
 ## Solution 
 As with any issue of bias, knowledge and awareness is important. Our data will hopefully allow publications to realize that unintendedly they are expressing bias. Most news organizations value truth and will hopefully take measures to figure out how to address that bias.  Otherwise, public pressure is typically the best method to force corporations to act. Even if we can't get corporations to act on minimizing their bias, making the public aware of potential bias allows them to understand that disproportionately certain organizations may favor certain ideological positions.  
 
 
+
+## References
+
+1. Sheth, Dev. Measuring Ideological Bias in News Coverage of Political Events by Print Media using Data Analytics.
+https://pdfs.semanticscholar.org/791d/c8b2f3feb1d731bce0a8b9fa46f2ec0516f1.pd
+
+2. Budak et al. Fair and Balanced? Quantifying Media Bias through Crowdsourced Content Analysis.
+https://www8.gsb.columbia.edu/media/sites/media/files/JustinRaoMediaBias.pdf
 
