@@ -12,11 +12,40 @@ output: html_document
 
 
 ## Hypothesis
+Our hypothesis is that publications negatively portray certain candidates more than other candidates. We will be using sentiment score to track a custom aggregated score for each candidate in each individual publication. Our custom KPI (Negative_bias) will attempt to track negative mentions of a candidate in several publications.    Depending on data collection, we may need to deal with differences in volume of mentions in the publications.  WE could do so by clustering candidates into categories based upon either volume or polling numbers
+
+Cluster 1: Biden,Bernie, Warren  
+
+Cluster 2: Buttigeg, Harris, Booker, 
+
+Cluster 3- Yang, Beto
+
+Our hypothesis test will look like this:
+
+### Washington Post(given Clusters):
+
+**Null Hypothesis: there is no difference in Negative_bias within  Cluster 1 mean score**
+
+**Alternative Hypothesis: there is a statistical difference in the Negative_bias mean score**
 
 
+**Null Hypothesis: there is no difference in Negative_bias within Cluster 2 mean score**
+
+**Alternative Hypothesis: there is a statistical difference in the Negative_bias mean score**
+
+
+**Null Hypothesis: there is no difference in Negative_bias within Cluster 3 mean score **
+
+**Alternative Hypothesis: there is a statistical difference in the Negative_bias mean score **
+
+### Washington Post(Without Clusters):
+**Null Hypothesis: there is no difference in Negative_bias mean score**
+
+**Alternative Hypothesis: there is a statistical difference in the Negative_bias mean score**
 
 
 ## Solution 
+As with any issue of bias, knowledge and awareness is important. Our data will hopefully allow publications to realize that unintendedly they are expressing bias. Most news organizations value truth and will hopefully take measures to figure out how to address that bias.  Otherwise, public pressure is typically the best method to force corporations to act. Even if we can't get corporations to act on minimizing their bias, making the public aware of potential bias allows them to understand that disproportionately certain organizations may favor certain ideological positions.  
 
 
 
