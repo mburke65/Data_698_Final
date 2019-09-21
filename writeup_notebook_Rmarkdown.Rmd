@@ -5,6 +5,18 @@ date: "9/20/2019"
 output: html_document
 ---
 
+## Introduction
+
+Our capstone project aims to measure the bias in media coverage of candidates in US
+Presidential Elections. Assuming that such bias is found, we aim to quantify it for
+a number of selected outlets in print media and cable television.
+
+Various studies such as [5] have measured the effect of media coverage on presidential elections
+and concluded that it affects election outcomes in small but measurable ways.
+Measuring media bias in political coverage and presidential elections in particular, is important
+as it can potentially shape public opinion and policy regarding media regulation.
+
+
 ## Previous Approaches
 
 There have been a number of approaches directed at the general problem of measuring and quantifying media bias.
@@ -16,10 +28,10 @@ represented numerically. The bias score is also scaled by the number of new item
 source.
 
 In Budak[2] bias (or "slant") is quantified based on a scoring of news articles on a range of
-topics spanning the idelogical spectrum, such as Environment, Gun Control and Healthcare.
+topics spanning the ideological spectrum, such as Environment, Gun Control and Healthcare.
 The scoring is performed by people through use of the crowdsourcing platform Amazon Turk. 
 
-Our proposal is different in that it focuses on bias in coverage of individual candidates, not political bias in general
+One way in which our proposal differs from previous approaches is that it focuses on bias in coverage of individual candidates, not political bias in general.
 
 
 
@@ -70,3 +82,8 @@ https://pdfs.semanticscholar.org/791d/c8b2f3feb1d731bce0a8b9fa46f2ec0516f1.pd
 2. Budak et al. Fair and Balanced? Quantifying Media Bias through Crowdsourced Content Analysis.
 https://www8.gsb.columbia.edu/media/sites/media/files/JustinRaoMediaBias.pdf
 
+3. Is the media biased toward Clinton or Trump? Here is some actual hard data. https://www.washingtonpost.com/news/monkey-cage/wp/2016/09/20/is-the-media-biased-toward-clinton-or-trump-heres-some-actual-hard-data/
+
+4. Peng, Yilang. Same Candidates, Different Faces: Uncovering Media Bias in Visual Portrayals of Presidential Candidates with Computer Vision. https://academic.oup.com/joc/article-abstract/68/5/920/5113150?redirectedFrom=fulltext
+
+5. Media Bias and Voting. https://www.nber.org/digest/oct06/w12169.html
