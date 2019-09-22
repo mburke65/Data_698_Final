@@ -72,6 +72,22 @@ Our hypothesis test will look like this:
 ## Solution 
 As with any issue of bias, knowledge and awareness is important. Our data will hopefully allow publications to realize that unintendedly they are expressing bias. Most news organizations value truth and will hopefully take measures to figure out how to address that bias.  Otherwise, public pressure is typically the best method to force corporations to act. Even if we can't get corporations to act on minimizing their bias, making the public aware of potential bias allows them to understand that disproportionately certain organizations may favor certain ideological positions.  
 
+## Dataset & Related Technologies
+The group plans to primarily use Python modules to access, scrape, consolidate, explore, classify, and model the newspaper data.
+  - **requests** module to get the HTML code from the newspaper’s webpage
+  - **BeautifulSoup** module to navigate through and extract elements from the HTML 
+  - **Pandas**module to perform exploratory data analysis 
+  - **Seaborn** module to visualize and further explore the data
+  - **nltk** and **scikit-learn** modules to perform all-natural language processing (NLP) and modeling components
+    - Word Frequency “Bag-of-Words”
+      - CountVectorizer (scikit-learn)
+      - TfidfVectorizer (scikit-learn)
+      - FreqDist  (nltk)
+    - Split dataset into train/test components (scikit-learn)
+    - Train models (scikit-learn)
+      - Random Forest
+      - Support Vector Machine
+    - Prediction and evaluation of model (scikit-learn)
 
 
 ## References
