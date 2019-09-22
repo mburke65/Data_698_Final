@@ -93,7 +93,7 @@ The group plans to primarily use Python modules to access, scrape, consolidate, 
 ## References
 
 1. Sheth, Dev. Measuring Ideological Bias in News Coverage of Political Events by Print Media using Data Analytics.
-https://pdfs.semanticscholar.org/791d/c8b2f3feb1d731bce0a8b9fa46f2ec0516f1.pd
+https://pdfs.semanticscholar.org/791d/c8b2f3feb1d731bce0a8b9fa46f2ec0516f1.pdf
 
 2. Budak et al. Fair and Balanced? Quantifying Media Bias through Crowdsourced Content Analysis.
 https://www8.gsb.columbia.edu/media/sites/media/files/JustinRaoMediaBias.pdf
