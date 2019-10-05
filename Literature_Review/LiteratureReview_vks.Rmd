@@ -1,0 +1,33 @@
+
+
+## Research Question: Do publications negatively portray certain candidates more than other candidates?
+
+### Literature Review
+
+Our capstone project aims to measure bias in media coverage of candidates in US presidential elections. This section is a survey of published literature and analyses addressing the broader issue of measuring and quantifying political bias in general.
+
+Sheth’s (Sheth 2016) research goal was to measure the ideological bias in news coverage by mainstream media outlets. Terms in the news articles were classified based on detected political affiliations: pro-conservative, anti-conservative, pro-liberal and anti-liberal. Once classified, Sheth was able to detect the overall measurement of political bias in each article. Sheth found that media coverage was broadly anti-conservative. It was also discovered that the news outlets, regardless of political affiliations, were resoundingly negative and critical of the opposition instead of championing their respective candidates. The Sheth study findings align with the general public’s perception of media bias. 
+
+There have been also attempts to understand the role of bias in a theoretical framework that includes profit-maximizing and competitive pressures, consumer preferences and regulatory forces, and the economic and financial environment in which news organizations must survive. Baron (2004) presents such a theory of bias that explicates its specific correlations with consumer expectations, hiring and cost pressures, news media prices, and ideological biases among professional journalists themselves. It shows that several forces combine to ensure the presence and prevalence of unbalanced reporting.
+
+Bernhardt et al (2008) is an examination of the effects of media bias. It examines the conditions that can cause media bias to generate undesirable results ("electoral mistakes"). It shows that the effect of media bias is more powerful and determinative than commonly presumed, since its effect cannot be nullified even if a rational consumer were to take into account its influence.
+
+
+
+### References
+
+1. Sheth, Dev. “Measuring Ideological Bias in News Coverage of Political Events by Print Media Using Data Analytics.” Rochester Institute of Technology , 2016, pp. 1–21.
+
+2. Baron, D. P. (2004). Persistent media bias. Journal of Public Economics, 90 (2006), 1 - 36.  https://pdfs.semanticscholar.org/2abb/9660637a260e5342c3e2c00abb07ab903978.pdf
+
+3. Bernhardt, D., Krasa, S., Polborn, M. (2008). Political polarization and the electoral effects of media bias. Journal of Public Economics, 92 (2008), 1092 - 1104. http://www.econ.uiuc.edu/~skrasa/media_bias_december_2007.pdf
+
+4. Stone, D. (2011). Ideological media bias. Journal of Economic Behavior & Organization, 78 (2011), 256 – 271.
+
+5. Gentzkow and Shapiro. Media Bias in the Marketplace: Theory. https://web.stanford.edu/~gentzkow/research/handbook.pdf   
+
+6. Groseclose, T., Milyo, J. (2005). A measure of media bias. The Quarterly Journal of Economics, CXX (4), 1191 – 1237. 
+http://itre.cis.upenn.edu/~myl/GrosecloseMilyo.pdf
+
+7. Baum and Groeling (2008) investigate issue filtering
+https://journalistsresource.org/wp-content/uploads/2012/03/News-Media-and-Polarization-Matt-Baum_Political-Communication-LK.pdf
