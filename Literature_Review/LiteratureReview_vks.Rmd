@@ -16,6 +16,7 @@ Stone (2011) presents the counterintuitive thesis that bias can be more prevalen
 
 Baum and Groeling (2012) suggest that the advent of internet media removed the professional editorial process from news content. The new “partisan” styled editorial system of the internet media paired with the public’s adoption of internet media produced more fragmented audience. Baum and Groeling study found that left-skewed and right-skewed political biases exist in internet media content. This shift from bipartisan to partisan coverage has important implications for political discourse in America and may impact the decision making for many Americans.
 
+Gentzkow and Shapiro (2014) examine the accuracy and trust in media. They explain how that different media outlets select, discuss and present facts in ways that tend to systematically favor one side of the political spectrum. These biases can be a result of a multitude of different media components. Supply-side bias persists when media management or labor are willing to sacrifice profits for political gain. Demand-side bias persists when consumers perceive biased media to be more informative or more enjoyable. Like Baum and Groeling, Gentzkow and Shapiro believe these differences can have large effects on voter behavior, public perception and political outcomes. However, it is very difficult to determine the measured impact of these biases. 
 
 ### References
 
