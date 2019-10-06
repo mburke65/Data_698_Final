@@ -6,7 +6,7 @@
 
 Our capstone project aims to measure bias in media coverage of candidates in US presidential elections. This section is a survey of published literature and analyses addressing the broader issue of measuring and quantifying political bias in general.
 
-Sheth’s (Sheth 2016) research goal was to measure the ideological bias in news coverage by mainstream media outlets. Terms in the news articles were classified based on detected political affiliations: pro-conservative, anti-conservative, pro-liberal and anti-liberal. Once classified, Sheth was able to detect the overall measurement of political bias in each article. Sheth found that media coverage was broadly anti-conservative. It was also discovered that the news outlets, regardless of political affiliations, were resoundingly negative and critical of the opposition instead of championing their respective candidates. The Sheth study findings align with the general public’s perception of media bias. 
+Sheth's (Sheth 2016) research goal was to measure the ideological bias in news coverage by mainstream media outlets. Terms in the news articles were classified based on detected political affiliations: pro-conservative, anti-conservative, pro-liberal and anti-liberal. Once classified, Sheth was able to detect the overall measurement of political bias in each article. Sheth found that media coverage was broadly anti-conservative. It was also discovered that the news outlets, regardless of political affiliations, were resoundingly negative and critical of the opposition instead of championing their respective candidates. The Sheth study findings align with the general public's perception of media bias. 
 
 There have been also attempts to understand the role of bias in a theoretical framework that includes profit-maximizing and competitive pressures, consumer preferences and regulatory forces, and the economic and financial environment in which news organizations must survive. Baron (2004) presents such a theory of bias that explicates its specific correlations with consumer expectations, hiring and cost pressures, news media prices, and ideological biases among professional journalists themselves. It shows that several forces combine to ensure the presence and prevalence of unbalanced reporting.
 
@@ -14,24 +14,28 @@ Bernhardt et al (2008) is an examination of the effects of media bias. It examin
 
 Stone (2011) presents the counterintuitive thesis that bias can be more prevalent in certain competitive media markets than in some less competitive ones. It presents a formal proof that consumers can, for example, be less informed in some media duopolies than in some monopolies. Thus one must guard against simplistic prescriptions on how to counter bias, since its correlations with market conditions can be contrary to intuition.
 
-Baum and Groeling (2012) suggest that the advent of internet media removed the professional editorial process from news content. The new “partisan” styled editorial system of the internet media paired with the public’s adoption of internet media produced more fragmented audience. Baum and Groeling study found that left-skewed and right-skewed political biases exist in internet media content. This shift from bipartisan to partisan coverage has important implications for political discourse in America and may impact the decision making for many Americans.
+Baum and Groeling (2012) suggest that the advent of internet media removed the professional editorial process from news content. The new "partisan" styled editorial system of the internet media paired with the public's adoption of internet media produced more fragmented audience. Baum and Groeling study found that left-skewed and right-skewed political biases exist in internet media content. This shift from bipartisan to partisan coverage has important implications for political discourse in America and may impact the decision making for many Americans.
 
 Gentzkow and Shapiro (2014) examine the accuracy and trust in media. They explain how that different media outlets select, discuss and present facts in ways that tend to systematically favor one side of the political spectrum. These biases can be a result of a multitude of different media components. Supply-side bias persists when media management or labor are willing to sacrifice profits for political gain. Demand-side bias persists when consumers perceive biased media to be more informative or more enjoyable. Like Baum and Groeling, Gentzkow and Shapiro believe these differences can have large effects on voter behavior, public perception and political outcomes. However, it is very difficult to determine the measured impact of these biases. 
 
 ### References
 
-1. Sheth, Dev. “Measuring Ideological Bias in News Coverage of Political Events by Print Media Using Data Analytics.” Rochester Institute of Technology , 2016, pp. 1–21.
+1. Sheth, Dev. "Measuring Ideological Bias in News Coverage of Political Events by Print Media Using Data Analytics." Rochester Institute of Technology , 2016, pp. 1-21.
 
 2. Baron, D. P. (2004). Persistent media bias. Journal of Public Economics, 90 (2006), 1 - 36.  https://pdfs.semanticscholar.org/2abb/9660637a260e5342c3e2c00abb07ab903978.pdf
 
 3. Bernhardt, D., Krasa, S., Polborn, M. (2008). Political polarization and the electoral effects of media bias. Journal of Public Economics, 92 (2008), 1092 - 1104. http://www.econ.uiuc.edu/~skrasa/media_bias_december_2007.pdf
 
-4. Stone, D. (2011). Ideological media bias. Journal of Economic Behavior & Organization, 78 (2011), 256 – 271.
+4. Stone, D. (2011). Ideological media bias. Journal of Economic Behavior & Organization, 78 (2011), 256-271.
 
 5. Gentzkow and Shapiro. Media Bias in the Marketplace: Theory. https://web.stanford.edu/~gentzkow/research/handbook.pdf   
 
-6. Groseclose, T., Milyo, J. (2005). A measure of media bias. The Quarterly Journal of Economics, CXX (4), 1191 – 1237. 
+6. Groseclose, T., Milyo, J. (2005). A measure of media bias. The Quarterly Journal of Economics, CXX (4), 1191-1237. 
 http://itre.cis.upenn.edu/~myl/GrosecloseMilyo.pdf
 
 7. Baum and Groeling (2008) investigate issue filtering
 https://journalistsresource.org/wp-content/uploads/2012/03/News-Media-and-Polarization-Matt-Baum_Political-Communication-LK.pdf
+
+8. Lin, Bagrow and Lazer (2011). More Voices Than Ever? Quantifying Media Bias in Networks. https://arxiv.org/pdf/1111.1227.pdf
+
+
