@@ -40,4 +40,5 @@ https://journalistsresource.org/wp-content/uploads/2012/03/News-Media-and-Polari
 
 8. Lin, Bagrow and Lazer (2011). More Voices Than Ever? Quantifying Media Bias in Networks. https://arxiv.org/pdf/1111.1227.pdf
 
-
+9. B. O'Connor, R. Balasubramanyan, B.R. Routledge, and N.A. Smith. From Tweets to Polls: Linking Text Sentiment to Public Opinion Time Series.
+https://homes.cs.washington.edu/~nasmith/papers/oconnor+balasubramanyan+routledge+smith.icwsm10.pdf
