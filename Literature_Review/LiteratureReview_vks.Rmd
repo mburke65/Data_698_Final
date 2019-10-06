@@ -14,6 +14,8 @@ Bernhardt et al (2008) is an examination of the effects of media bias. It examin
 
 Stone (2011) presents the counterintuitive thesis that bias can be more prevalent in certain competitive media markets than in some less competitive ones. It presents a formal proof that consumers can, for example, be less informed in some media duopolies than in some monopolies. Thus one must guard against simplistic prescriptions on how to counter bias, since its correlations with market conditions can be contrary to intuition.
 
+Baum and Groeling (2012) suggest that the advent of internet media removed the professional editorial process from news content. The new “partisan” styled editorial system of the internet media paired with the public’s adoption of internet media produced more fragmented audience. Baum and Groeling study found that left-skewed and right-skewed political biases exist in internet media content. This shift from bipartisan to partisan coverage has important implications for political discourse in America and may impact the decision making for many Americans.
+
 
 ### References
 
