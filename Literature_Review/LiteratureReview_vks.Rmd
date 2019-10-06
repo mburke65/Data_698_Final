@@ -18,6 +18,8 @@ Baum and Groeling (2008) suggest that the advent of internet media removed the p
 
 Gentzkow and Shapiro (2014) examine the accuracy and trust in media. They explain how that different media outlets select, discuss and present facts in ways that tend to systematically favor one side of the political spectrum. These biases can be a result of a multitude of different media components. Supply-side bias persists when media management or labor are willing to sacrifice profits for political gain. Demand-side bias persists when consumers perceive biased media to be more informative or more enjoyable. Like Baum and Groeling, Gentzkow and Shapiro believe these differences can have large effects on voter behavior, public perception and political outcomes. However, it is very difficult to determine the measured impact of these biases. 
 
+Lin, Bagrow and Lazer (2011) propose a method of quantifying bias in both traditional news media and internet blogs. Their method is primarily based on comparing the number of references to members of the US Congress, thus avoiding errors due to subjective criteria such as sentiment and degrees of bias. They describe methods to measure how bias varies over time. They also measure links between blog articles and how media outlets with different slants link to each other. They conclude that internet blogs are "more social", i.e. more influened by the network of sites that they are connected to, and more "exogenous", meaning their coverage is more influenced by external factors such as election cycles.
+
 ### References
 
 1. Sheth, Dev. "Measuring Ideological Bias in News Coverage of Political Events by Print Media Using Data Analytics." Rochester Institute of Technology , 2016, pp. 1-21.
