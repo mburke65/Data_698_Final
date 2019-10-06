@@ -42,3 +42,5 @@ https://journalistsresource.org/wp-content/uploads/2012/03/News-Media-and-Polari
 
 9. B. O'Connor, R. Balasubramanyan, B.R. Routledge, and N.A. Smith. From Tweets to Polls: Linking Text Sentiment to Public Opinion Time Series.
 https://homes.cs.washington.edu/~nasmith/papers/oconnor+balasubramanyan+routledge+smith.icwsm10.pdf
+
+10. Sutter, D. (2012).Mechanisms of Liberal Bias in the News Media versus the Academy.http://www.independent.org/pdf/tir/tir_16_03_4_sutter.pdf
