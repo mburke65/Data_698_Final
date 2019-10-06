@@ -12,6 +12,7 @@ There have been also attempts to understand the role of bias in a theoretical fr
 
 Bernhardt et al (2008) is an examination of the effects of media bias. It examines the conditions that can cause media bias to generate undesirable results ("electoral mistakes"). It shows that the effect of media bias is more powerful and determinative than commonly presumed, since its effect cannot be nullified even if a rational consumer were to take into account its influence.
 
+Stone (2011) presents the counterintuitive thesis that bias can be more prevalent in certain competitive media markets than in some less competitive ones. It presents a formal proof that consumers can, for example, be less informed in some media duopolies than in some monopolies. Thus one must guard against simplistic prescriptions on how to counter bias, since its correlations with market conditions can be contrary to intuition.
 
 
 ### References
