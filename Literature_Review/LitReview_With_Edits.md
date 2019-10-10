@@ -18,33 +18,20 @@ Stone [6] presents the counterintuitive thesis that bias can be more prevalent i
 
 Sheth [7] proposes a model for measuring the ideological bias in news coverage by mainstream media outlets. Terms in the news articles are classified based on detected political affiliations: pro-conservative, anti-conservative, pro-liberal and anti-liberal. Once classified, the model detects the overall measurement of political bias in each article. Sheth’s initial findings are that media coverage is broadly anti-conservative. The model also concludes that the news outlets, regardless of political affiliations, are resoundingly negative and critical of the opposition instead of championing its respective candidates. The Sheth model findings align with the general public's perception of media bias. 
 
-Lin, Bagrow and Lazer [8] propose a method of quantifying bias in both traditional news media and internet blogs. The method is primarily based on comparing the number of references to members of the US Congress, thus avoiding errors due to subjective criteria such as sentiment and degrees of bias. Lin, Bagrow and Lazer note that these methods to measure how bias vary over time. They also measure links between blog articles and how media outlets with different slants link to each other. The findings conclude that internet blogs are "more social", i.e. more influenced by the network of sites that they are connected to, and more "exogenous", meaning their coverage is more influenced by external factors such as election cycles.
+Lin, Bagrow and Lazer [8] propose a method of quantifying bias in both traditional news media and internet blogs. The method primarily compares the number of media references to members of the United States Congress. This method helps reduce errors due to subjective criteria, such as sentiment or degrees of bias. The presented method can also account for the variance in bias over time. By measuring the links between blogs and ideologically opposing media outlets, Lin, Bagrow and Lazer prove that internet blogs are, "more social" as they are more connected and consequently more influenced by site connections. Being more connected makes the internet blogs more "exogenous", or more influenced by external factors, such as election cycles.
 
 Oconnor, Balasubramanyan, Routledge and Smith [9] sought to test how well twitter sentiment analysis correlates with consumer confidence polling data as well as presidential approval/election polling data.  The sentiment analysis model is based on a lexicon from OpinionFinder on a subset of twitter data relating to several political topics in 2008-2009 (jobs, Obama, Mccain ).  The sentiment score is a ratio of positive to negative words.  The sentiment data was extremely noisy, so smoothing averages to clean out some of the noise to determine correlation.  They found techniques like stemming caused dangerous misclassification over their lexicon (in particular stemming jobs to job) but that overall this did not substantially effect the aggregated scoring composites.  Results were mixed with the sentiment analysis doing well predicting the economic indicators, but not as well at predicting the presidential approval polls.      
 
 Groceclose and Milyo [10] proposes a method to estimate the ADA scores for media outlets, which involves many functions that are similar to a multinomial logit. By comparing the citation patterns, they construct an ADA score that will simplified example. Since Groseclose and Milyo's measure of bias is restricted to citations of think tank and advocacy groups, this kind of miscategorization is inevitable. Groseclose and Milyo's discussion of the idea of bias assumes that if a reporter quotes a source, then the opinion expressed by that source is an accurate measure of the reporter's beliefs an assumption that most, if not all, reporters across the ideological spectrum would find utterly ridiculous. Their method is primarily based on comparing the liberal group and conservative group based on the average of score of legislators. They also measure links between new outlets media which compute the measure, by counting the times that a media outlet cites various think tanks and other policy groups. But sometimes can submit a false and negative result depending in different media sources.
 
 ### References
-
-1. Sheth, Dev. "Measuring Ideological Bias in News Coverage of Political Events by Print Media Using Data Analytics." Rochester Institute of Technology , 2016, pp. 1-21.
-
-2. Baron, D. P. (2004). Persistent media bias. Journal of Public Economics, 90 (2006), 1 - 36.  https://pdfs.semanticscholar.org/2abb/9660637a260e5342c3e2c00abb07ab903978.pdf
-
-3. Bernhardt, D., Krasa, S., Polborn, M. (2008). Political polarization and the electoral effects of media bias. Journal of Public Economics, 92 (2008), 1092 - 1104. http://www.econ.uiuc.edu/~skrasa/media_bias_december_2007.pdf
-
-4. Stone, D. (2011). Ideological media bias. Journal of Economic Behavior & Organization, 78 (2011), 256-271.
-
-5. Gentzkow and Shapiro. Media Bias in the Marketplace: Theory. https://web.stanford.edu/~gentzkow/research/handbook.pdf   
-
-6. Groseclose, T., Milyo, J. (2005). A measure of media bias. The Quarterly Journal of Economics, CXX (4), 1191-1237. 
-http://itre.cis.upenn.edu/~myl/GrosecloseMilyo.pdf
-
-7. Baum and Groeling (2008). New Media and the Polarization of American Political Discourse.
-https://journalistsresource.org/wp-content/uploads/2012/03/News-Media-and-Polarization-Matt-Baum_Political-Communication-LK.pdf
-
-8. Lin, Bagrow and Lazer (2011). More Voices Than Ever? Quantifying Media Bias in Networks. https://arxiv.org/pdf/1111.1227.pdf
-
-9. B. O'Connor, R. Balasubramanyan, B.R. Routledge, and N.A. Smith. From Tweets to Polls: Linking Text Sentiment to Public Opinion Time Series.
-https://homes.cs.washington.edu/~nasmith/papers/oconnor+balasubramanyan+routledge+smith.icwsm10.pdf
-
-10. Sutter, D. (2012).Mechanisms of Liberal Bias in the News Media versus the Academy.http://www.independent.org/pdf/tir/tir_16_03_4_sutter.pdf
+1.	Sutter, D. (2012).Mechanisms of Liberal Bias in the News Media versus the Academy.http://www.independent.org/pdf/tir/tir_16_03_4_sutter.pdf
+2.	Baron, D. P. (2004). Persistent media bias. Journal of Public Economics, 90 (2006), 1 - 36.  https://pdfs.semanticscholar.org/2abb/9660637a260e5342c3e2c00abb07ab903978.pdf
+3.	Bernhardt, D., Krasa, S., Polborn, M. (2008). Political polarization and the electoral effects of media bias. Journal of Public Economics, 92 (2008), 1092 - 1104. http://www.econ.uiuc.edu/~skrasa/media_bias_december_2007.pdf
+4.	Baum and Groeling (2008). New Media and the Polarization of American Political Discourse. https://journalistsresource.org/wp-content/uploads/2012/03/News-Media-and-Polarization-Matt-Baum_Political-Communication-LK.pdf
+5.	Gentzkow and Shapiro. Media Bias in the Marketplace: Theory. https://web.stanford.edu/~gentzkow/research/handbook.pdf   
+6.	Stone, D. (2011). Ideological media bias. Journal of Economic Behavior & Organization, 78 (2011), 256-271.
+7.	Sheth, Dev. "Measuring Ideological Bias in News Coverage of Political Events by Print Media Using Data Analytics." Rochester Institute of Technology , 2016, pp. 1-21.
+8.	Lin, Bagrow and Lazer (2011). More Voices Than Ever? Quantifying Media Bias in Networks. https://arxiv.org/pdf/1111.1227.pdf
+9.	B. O'Connor, R. Balasubramanyan, B.R. Routledge, and N.A. Smith. From Tweets to Polls: Linking Text Sentiment to Public Opinion Time Series. https://homes.cs.washington.edu/~nasmith/papers/oconnor+balasubramanyan+routledge+smith.icwsm10.pdf
+10.	Groseclose, T., Milyo, J. (2005). A measure of media bias. The Quarterly Journal of Economics, CXX (4), 1191-1237. http://itre.cis.upenn.edu/~myl/GrosecloseMilyo.pdf
