@@ -19,22 +19,29 @@ and quantifying these biases.
 
 Many researchers have grappled with the difficulty of precisely measuring or documenting bias,
 including Sutter [1]. Sutter compares bias in universities versus for-profit organizations.
-He concludes that incentives for bias in academic settings are of quite different than those in commercial settings. He advocates a few suggestions to mitigate this bias, considering the stakeholders in academia and 
-their own incentives in mitigating or promoting bias.
+He concludes that incentives for bias in academic settings are of quite different than those in
+commercial settings. He advocates a few suggestions to mitigate this bias, considering the 
+stakeholders in academia and their own incentives in mitigating or promoting bias.
 
 ### Causes of Bias
 
 Several papers, such as Sutter [1] and Baron [2], focus on the factors that propagate
 political biases. Sutter [1] compares the incentives for bias in universities versus those in for-profit
-organizations. He concludes that the forces that sustain bias in academia differ than those in commercial organizations since the stakeholders and accountability structures are vastly different. 
+organizations. He concludes that the forces that sustain bias in academia differ than those in commercial 
+organizations since the stakeholders and accountability structures are vastly different. 
 
 For Bernhardt [3], media bias is a result of the general public’s preference for “partisan” or biased news.
 Baron [2] concludes that news bias is a self-perpetuating cycle where journalistic biases lower subscription
 prices, forcing the news organization to survive only by hiring and paying journalists lower wages. 
 
-Gentzkow et al [5] aligns the causation of political bias to the production and dissemination of news: supply-side and demand-side, respectively. The supply-side biases can be attributed to the production of news media content, such as practices of management or labor in news media organizations. The demand-side biases originate and perpetuate from consumers' perceptions and preferences.
+Gentzkow et al [5] aligns the causation of political bias to the production and dissemination of news: supply-side
+and demand-side, respectively. The supply-side biases can be attributed to the production of news media content,
+such as practices of management or labor in news media organizations. The demand-side biases originate and perpetuate
+from consumers' perceptions and preferences.
 
-For bias to persist, there must be factors that sustain, or even strengthen it. The task of identifying factors that sustain bias across the adaptive and dynamic environment of news media organizations is the focus of papers such as Sutter [1], Baron [2], Bernhardt [3], Baum and Groeling [4].
+For bias to persist, there must be factors that sustain, or even strengthen it. The task of identifying factors
+that sustain bias across the adaptive and dynamic environment of news media organizations is the focus of papers 
+such as Sutter [1], Baron [2], Bernhardt [3], Baum and Groeling [4].
 
 Sutter [1] suggests that journalism, the main transmission engine for ideas and information in
 society, is inherently subjective and often reflects the opinions of the journalist and/or news
