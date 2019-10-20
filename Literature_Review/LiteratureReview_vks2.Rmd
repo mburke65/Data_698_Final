@@ -133,7 +133,7 @@ approval polls.
 
 The model described by Groseclose and Milyo [10] calculates an ADA (Americans for Democratic Action)
 score for various news outlets across the political spectrum.
-In Groceclose and Milyo's research, ADA is coterminous with political slant or
+In Groseclose and Milyo's research, ADA is coterminous with political slant or
 liberal affiliation. The ADA score is calculated from the number of times the news media
 outlet cites various think-tanks in articles, compared against the number of times Congress
 cites the same think-tanks in Congressional speeches.  The citation patterns frequency
