@@ -1,7 +1,7 @@
 ---
 title: "LiteratureReview"
 author: "Meaghan Burke, Justin Herman, Vikas Sinha, Joseph Garcia"
-date: "October 10, 2019"
+date: "October 19, 2019"
 output:
   html_document: default
   pdf_document: default
@@ -131,7 +131,7 @@ did not substantially affect the aggregated scoring composites.  The model prove
 with predicting economic indicators, but exhibited difficulty predicting the presidential
 approval polls.          
 
-The model described by Groceclose and Milyo [10] calculates an ADA (Americans for Democratic Action)
+The model described by Groseclose and Milyo [10] calculates an ADA (Americans for Democratic Action)
 score for various news outlets across the political spectrum.
 In Groceclose and Milyo's research, ADA is coterminous with political slant or
 liberal affiliation. The ADA score is calculated from the number of times the news media
