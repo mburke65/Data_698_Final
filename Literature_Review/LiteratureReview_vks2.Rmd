@@ -3,25 +3,19 @@ title: "LiteratureReview"
 author: "Meaghan Burke, Justin Herman, Vikas Sinha, Joseph Garcia"
 date: "October 19, 2019"
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 ## Research Question: 
 
 Do publications negatively portray certain candidates more than other candidates?
 
-## Literature Review
 
 Our capstone project aims to measure bias in news media coverage for the candidates in the United
 States 2020 Democratic Presidential Primary. The Literature Review section focuses on a selection
 of published literature and analyses that define political bias and identify ways of measuring
 and quantifying these biases. 
 
-Many researchers have grappled with the difficulty of precisely measuring or documenting bias,
-including Sutter [1]. Sutter compares bias in universities versus for-profit organizations.
-He concludes that incentives for bias in academic settings are of quite different than those in
-commercial settings. He advocates a few suggestions to mitigate this bias, considering the 
-stakeholders in academia and their own incentives in mitigating or promoting bias.
 
 ### Causes of Bias
 
