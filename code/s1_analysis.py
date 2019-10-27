@@ -1,4 +1,6 @@
-
+# 
+# Implementation of Sentiment analysis
+# Adapted from
 # https://towardsdatascience.com/basic-binary-sentiment-analysis-using-nltk-c94ba17ae386
 
 import sys
