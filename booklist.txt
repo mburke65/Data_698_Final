@@ -1,0 +1,5 @@
+1000,Science: A Visual Encyclopedia,Chris Woodford,Science,23.99
+1001,My First Human Body Book,Patricia J. Wynne and Donald M. Silver,Science,3.99
+1002,The Runaway Children,Sandy Taylor,Fiction,3.99
+1003,The Tuscan Child,Rhys Bowen,Fiction,9.99
+1004,Learning Python,Mark Lutz,Programming,61.99 
