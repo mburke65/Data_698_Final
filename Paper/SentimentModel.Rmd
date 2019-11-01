@@ -1,0 +1,25 @@
+
+
+## Algorithm and Model for Sentiment Analysis
+
+### The Bag of Words Model
+
+For our initial sentiment analysis model we chose a bag-of-words approach where the 
+grammatical relationships of words within a sentence are ignored, and sentiment is computed
+simply from the presence or absence of certain words.  More complex models can exploit
+the network relationships between words, and use topic modeling and deep learning techniques. We may
+use more complex models if we come across limitations in the current bag-of-words model.
+
+From a text database containing reviews labeled as positive or negative, our sentiment analysis
+model trains a Naive Bayesian Classifier to classify sentences as having positive or negative sentiment.
+
+Feature sets for training are built by first extracting the most commonly occurring words in the text
+database. The feature vector is a vector of boolean variables where each variable reflects the
+presence or absence of each of the commonly occurring words. A Naive Bayesian classification model 
+then associates binary values in the feature vector with the positive or negative label assigned to the
+text instance. Once trained, the model can be used to perform binary classification on any
+string of text.
+
+Training the Naive Bayesian model was done on general-purpose desktop machines and did not require spesialized hardware such as GPUs.
+
+
