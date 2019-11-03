@@ -7,7 +7,7 @@ Joseph Garcia
 
 ## Detecing Media Bias in the 2020 Democratic Primary Cycle
 
-This repository contains the accompanying scripts to our capstone project. all writeups are contained in the [Literature Review](https://github.com/mburke65/Data_698_Final/tree/master/Literature_Review), [Metting_Notes](https://github.com/mburke65/Data_698_Final/tree/master/Meeting_Notes), [Paper](https://github.com/mburke65/Data_698_Final/tree/master/Paper), and [Proposal](https://github.com/mburke65/Data_698_Final/tree/master/Proposal) folders.  These folders contain individual contributions, for the final writeup please see [Rough draft ](http://google.comhttps://github.com/mburke65/Data_698_Final/blob/master/Paper/FinalPaper_vks.docx)
+This repository contains the accompanying scripts to our capstone project. all writeups are contained in the [Literature Review](https://github.com/mburke65/Data_698_Final/tree/master/Literature_Review), [Meeting_Notes](https://github.com/mburke65/Data_698_Final/tree/master/Meeting_Notes), [Paper](https://github.com/mburke65/Data_698_Final/tree/master/Paper), and [Proposal](https://github.com/mburke65/Data_698_Final/tree/master/Proposal) folders.  These folders contain individual contributions, for the final writeup please see [Rough draft ](http://google.comhttps://github.com/mburke65/Data_698_Final/blob/master/Paper/FinalPaper_vks.docx)
 
 ## Executable scripts
 
